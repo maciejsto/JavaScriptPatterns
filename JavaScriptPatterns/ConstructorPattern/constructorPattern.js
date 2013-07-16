@@ -27,4 +27,5 @@ Car.getModel = function() {
 };
 //Usage
 console.log(Car.toString());
+console.log(Car.getModel());
 
