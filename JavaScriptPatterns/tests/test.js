@@ -1,4 +1,8 @@
-    // Let's test this function  
+    /**
+     * for test purpose
+     * @param val
+     * @returns {Boolean}
+     */
     function isEven(val) {  
         return val % 2 === 0;  
     }  
